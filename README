@@ -1,0 +1,13 @@
+iOS-Scroll-Views
+
+Illustrates managing scroll views for various purposes created totally programmatically.
+
+The user will find 4 examples:
+
+- a scroll view for a very large image using 2 gesture recognizers for zooming in and out;
+
+- a scroll view for a complex view hierarchy;
+
+- scrolling through multiple pages of content;
+
+- «peeking» scrolling through that gives a glimpse of the previous / next page as well as the current page.
